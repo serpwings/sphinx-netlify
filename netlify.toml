@@ -1,0 +1,3 @@
+[build]
+  publish = "build/dirhtml"
+  command = "make dirhtml"
