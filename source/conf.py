@@ -11,6 +11,14 @@ master_doc = 'index'
 version = 'latest'
 pygments_style = 'sphinx'
 
+extensions = [
+ "sphinxext.opengraph",
+ "notfound.extension",
+ "sphinx_sitemap"
+]
+
+sitemap_filename = "sitemap.xml"
+
 html_css_files = ['custom.css']
 html_js_files = ['custom.js']
 html_theme = 'sphinx_rtd_theme'
