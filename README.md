@@ -1,8 +1,8 @@
-# sphinx-netlify : Minimalistic Example of Hosting Sphinx on Netlify
+# sphinx-netlify : Minimalist Example of Hosting Sphinx on Netlify
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6e617b73-9bc1-453a-b318-564653a46048/deploy-status)](https://app.netlify.com/sites/sphinx-netlify/deploys)
 
-This repo is a minimalistic working example of delploying Static Sites Generated using Sphinx. It has been tested with
+This repo is a minimalist working example of delploying Static Sites Generated using Sphinx. It has been tested with
 
 1. Python v. 3.8
 2. sphinx v. 4.3.1
