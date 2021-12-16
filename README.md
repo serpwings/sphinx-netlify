@@ -19,3 +19,7 @@ You can tweak and play with your newly deployed website. Feel free to browse thr
 ## Pull Request
 
 If you have suggestion/improvements then please consider submitting a pull request or create an issue.
+
+## Credits
+
+<a href="https://www.seowings.org/" target="_blank">seowings.org</a>
